@@ -57,20 +57,10 @@ hader .heading {
   color: #fff;
 }
 
-.main {
-  width: 840px;
-  display: flex;
-  justify-content: center;
-}
-
 .blog {
-  width: 600px;
-  height: 1400px;
 }
 
 .sidebar {
-  width: 240px;
-  height: 1400px;
 }
 
 footer {
